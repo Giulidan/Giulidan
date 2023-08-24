@@ -1,4 +1,4 @@
-### In search of the good, the right, the true and the beautiful.
+### write("Hi there");
 
 <!--
 **Giulidan/Giulidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
